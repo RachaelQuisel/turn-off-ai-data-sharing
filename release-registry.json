@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "repository": "RachaelQuisel/turn-off-ai-data-sharing",
+  "packages": [
+    {
+      "name": "turn-off-ai-data-sharing",
+      "root": ".",
+      "version": "1.0.3",
+      "manifests": [
+        "plugin.json",
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "skills": [
+        "skills/turn-off-ai-data-sharing/SKILL.md"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "path": "skills/turn-off-ai-data-sharing/SKILL.md",
+      "version": "1.0.3",
+      "sha256": "bab1e99af01c91392e17f71e958fd5e4099b3d3e4a3074723971fa2326ab28e8",
+      "source": "skills/turn-off-ai-data-sharing/SKILL.md",
+      "guide": "skills/turn-off-ai-data-sharing/README.md"
+    }
+  ],
+  "copies": []
+}

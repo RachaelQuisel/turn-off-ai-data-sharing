@@ -1,0 +1,34 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Rachael Quisel"
+  },
+  "description": "Find out what your AI accounts are actually sharing, then shut off the parts you never agreed to. Reads the settings pages in your own browser, checks each one against what the vendor documents, and hands you the exact click path to fix it.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [],
+        "category": "Productivity",
+        "composerIcon": "./icon.png",
+        "developerName": "Rachael Quisel",
+        "displayName": "Turn Off AI Data Sharing",
+        "logo": "./icon.png",
+        "longDescription": "Find out what your AI accounts are actually sharing, then shut off the parts you never agreed to. Reads the settings pages in your own browser, checks each one against what the vendor documents, and hands you the exact click path to fix it.",
+        "shortDescription": "Review AI privacy settings"
+      }
+    }
+  },
+  "homepage": "https://github.com/RachaelQuisel/turn-off-ai-data-sharing",
+  "keywords": [
+    "privacy",
+    "data-sharing",
+    "opt-out",
+    "permissions",
+    "audit",
+    "ai-governance"
+  ],
+  "license": "MIT",
+  "name": "turn-off-ai-data-sharing",
+  "repository": "https://github.com/RachaelQuisel/turn-off-ai-data-sharing",
+  "version": "1.0.3"
+}

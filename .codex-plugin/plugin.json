@@ -1,0 +1,31 @@
+{
+  "interface": {
+    "capabilities": [],
+    "category": "Productivity",
+    "composerIcon": "./icon.png",
+    "developerName": "Rachael Quisel",
+    "displayName": "Turn Off AI Data Sharing",
+    "logo": "./icon.png",
+    "longDescription": "Find out what your AI accounts are actually sharing, then shut off the parts you never agreed to. Reads the settings pages in your own browser, checks each one against what the vendor documents, and hands you the exact click path to fix it.",
+    "shortDescription": "Review AI privacy settings",
+    "defaultPrompt": null
+  },
+  "name": "turn-off-ai-data-sharing",
+  "version": "1.0.3",
+  "description": "Find out what your AI accounts are actually sharing, then shut off the parts you never agreed to. Reads the settings pages in your own browser, checks each one against what the vendor documents, and hands you the exact click path to fix it.",
+  "author": {
+    "name": "Rachael Quisel"
+  },
+  "keywords": [
+    "privacy",
+    "data-sharing",
+    "opt-out",
+    "permissions",
+    "audit",
+    "ai-governance"
+  ],
+  "homepage": "https://github.com/RachaelQuisel/turn-off-ai-data-sharing",
+  "repository": "https://github.com/RachaelQuisel/turn-off-ai-data-sharing",
+  "license": "MIT",
+  "skills": "./skills"
+}

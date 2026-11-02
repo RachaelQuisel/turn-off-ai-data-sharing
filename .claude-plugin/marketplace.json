@@ -11,7 +11,8 @@
       "description": "Find out what your AI accounts are actually sharing, then shut off the parts you never agreed to. Reads the settings pages in your own browser, checks each one against what the vendor documents, and hands you the exact click path to fix it.",
       "source": "./",
       "category": "security",
-      "homepage": "https://github.com/RachaelQuisel/turn-off-ai-data-sharing"
+      "homepage": "https://github.com/RachaelQuisel/turn-off-ai-data-sharing",
+      "version": "1.0.3"
     }
   ]
 }
