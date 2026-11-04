@@ -2,7 +2,7 @@
   "name": "turn-off-ai-data-sharing",
   "displayName": "Turn Off AI Data Sharing",
   "description": "Find out what your AI accounts are actually sharing, then shut off the parts you never agreed to. Reads the settings pages in your own browser, checks each one against what the vendor documents, and hands you the exact click path to fix it.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": {
     "name": "Rachael Quisel"
   },

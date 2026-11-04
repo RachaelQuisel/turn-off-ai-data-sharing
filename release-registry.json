@@ -5,7 +5,7 @@
     {
       "name": "turn-off-ai-data-sharing",
       "root": ".",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "manifests": [
         "plugin.json",
         ".claude-plugin/plugin.json",
@@ -19,8 +19,8 @@
   "skills": [
     {
       "path": "skills/turn-off-ai-data-sharing/SKILL.md",
-      "version": "1.0.3",
-      "sha256": "bab1e99af01c91392e17f71e958fd5e4099b3d3e4a3074723971fa2326ab28e8",
+      "version": "1.0.4",
+      "sha256": "9e146ed6463dcd91cb44c42d8fa4a9868fbc5ffe6adfb32276fdf627bcc0f51d",
       "source": "skills/turn-off-ai-data-sharing/SKILL.md",
       "guide": "skills/turn-off-ai-data-sharing/README.md"
     }

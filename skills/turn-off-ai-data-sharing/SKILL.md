@@ -1,6 +1,6 @@
 ---
 name: turn-off-ai-data-sharing
-version: 1.0.3
+version: 1.0.4
 description: Audit the privacy and permission settings on AI assistant accounts (ChatGPT, Claude, Gemini, Grok, Copilot, Meta AI) and flag defaults that expose more than the owner intends. Use when someone asks to review, audit, or lock down their AI privacy settings, asks what they should turn off in ChatGPT/Claude/Gemini/Grok/Copilot/Meta AI, asks whether their chats are used for training, or wants an AI data-exposure review for themselves or a client. Read-only — it reports and recommends, never changes a setting.
 ---
 
